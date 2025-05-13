@@ -6,4 +6,8 @@ The user enters three numbers - the lengths of the sides of the triangle. Find t
 
 ## 2. The quadratic equation
 Prepare a program for calculating the real roots of a quadratic equation based on the entered coefficients
-📁 Code: [`Solution in second.c`]()
+📁 Code: [`Solution in second.c`](https://github.com/Liloika/tasks_math_c/blob/main/second.c)
+
+## 3. The cubic equation
+Prepare a program for calculating the roots of a cubic equation based on the entered coefficients.
+📁 Code: [`Solution in third.c`]()

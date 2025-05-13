@@ -1,18 +1,18 @@
-#include<stdio.h>
-#include<math.h>
+#include <stdio.h>
+#include <math.h>
 
 int main () {
 
-  int a, b, c;
+  double a, b, c;
   
   printf("Enter coefficient: ");
-  scanf("%d", &a);
+  scanf("%lf", &a);
   
   printf("Enter coefficient: ");
-  scanf("%d", &b);  
+  scanf("%lf", &b);  
   
   printf("Enter coefficient: ");
-  scanf("%d", &c);
+  scanf("%lf", &c);
 
   if (a == 0) {
     printf("This is not a quadratic equation.\n");
@@ -28,9 +28,9 @@ int main () {
   } else if (D == 0) {
       double x = -b / (2 * a);
       printf("Root of the equation: x = %.2lf\n", x);
-    } else {
-        printf("Equation has no roots\n");
-      }  
+  } else {
+      printf("Equation has no roots\n");
+  }  
 
   return 0;
 }
