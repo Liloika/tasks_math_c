@@ -23,6 +23,15 @@ Write a program for exchanging the values of two variables.
 ## 5. Exchanging the values of two variables without using the third one
 Write a program for exchanging the values of two variables without using the third one.
 
-📁 Code: [`Solution in fifth.c`]()
+📁 Code: [`Solution in fifth.c`](https://github.com/Liloika/tasks_math_c/blob/main/fifth.c)
+
+## 6. Exponentiation of a 
+The number a is given. Without using any arithmetic operations other than multiplication, get a) a4 in two operations, b) a6 in three operations, c) a15 in five operations.
+
+📁 Code: [`Solution in sixth.c`](https://github.com/Liloika/tasks_math_c/blob/main/sixth.c)
 
 
+## 7. Exponentiation without pow
+Enter valid a and x, calculate a to the power of X. Do not use the sw function.
+
+📁 Code: [`Solution in seventh.c`](https://github.com/Liloika/tasks_math_c/blob/main/seventh.c)
