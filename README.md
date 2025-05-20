@@ -30,8 +30,24 @@ The number a is given. Without using any arithmetic operations other than multip
 
 📁 Code: [`Solution in sixth.c`](https://github.com/Liloika/tasks_math_c/blob/main/sixth.c)
 
-
 ## 7. Exponentiation without pow
 Enter valid a and x, calculate a to the power of X. Do not use the sw function.
 
 📁 Code: [`Solution in seventh.c`](https://github.com/Liloika/tasks_math_c/blob/main/seventh.c)
+
+## 8. Passing the brick through the hole
+Write a program that should determine whether a brick will fit into the hole. The size of the hole (length and height) is entered by the user. The same applies to the dimensions
+of the brick, the user enters the values of the length, width and height of the brick into the program.
+
+📁 Code: [`Solution in seventh.c`](https://github.com/Liloika/tasks_math_c/blob/main/eighth.c)
+
+## 9. The max and min digits in a number
+Organize the input of a two-digit natural number from the keyboard. The program must determine the smallest and largest digits that are part of a given natural number.
+
+📁 Code: [`Solution in seventh.c`](https://github.com/Liloika/tasks_math_c/blob/main/ninth.c)
+
+
+
+
+
+
